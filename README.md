@@ -1,4 +1,4 @@
-# ToyModel_Neighbors
+# MATLAB Toy Model of Impact of Neighbors Antibiotic Export
 
 This is a toy model describing how export of antibiotics by certain cells can produce harmful effects to their neighbors. These scripts simulate cell growth with different neighbors in the presence of antibiotics, using an agent-based model with Moore neighborhood architecture to represent the spatial interactions between cells and the environment. Each cell's growth and antibiotic concentration are represented by ordinary differential equations. Please see associated manuscript below for more details.
 
